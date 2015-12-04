@@ -1,0 +1,6 @@
+c:\users\ctq9685\documents\visual studio 2012\Projects\Stack Implementation\Stack Implementation\bin\Debug\Stack Implementation.exe.config
+c:\users\ctq9685\documents\visual studio 2012\Projects\Stack Implementation\Stack Implementation\bin\Debug\Stack Implementation.exe
+c:\users\ctq9685\documents\visual studio 2012\Projects\Stack Implementation\Stack Implementation\bin\Debug\Stack Implementation.pdb
+c:\users\ctq9685\documents\visual studio 2012\Projects\Stack Implementation\Stack Implementation\obj\Debug\Stack Implementation.csprojResolveAssemblyReference.cache
+c:\users\ctq9685\documents\visual studio 2012\Projects\Stack Implementation\Stack Implementation\obj\Debug\Stack Implementation.exe
+c:\users\ctq9685\documents\visual studio 2012\Projects\Stack Implementation\Stack Implementation\obj\Debug\Stack Implementation.pdb

@@ -1,0 +1,6 @@
+c:\users\ctq9685\documents\visual studio 2012\Projects\Mth\Mth\bin\Debug\Mth.exe.config
+c:\users\ctq9685\documents\visual studio 2012\Projects\Mth\Mth\bin\Debug\Mth.exe
+c:\users\ctq9685\documents\visual studio 2012\Projects\Mth\Mth\bin\Debug\Mth.pdb
+c:\users\ctq9685\documents\visual studio 2012\Projects\Mth\Mth\obj\Debug\Mth.exe
+c:\users\ctq9685\documents\visual studio 2012\Projects\Mth\Mth\obj\Debug\Mth.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\Mth\Mth\obj\Debug\Mth.csprojResolveAssemblyReference.cache
