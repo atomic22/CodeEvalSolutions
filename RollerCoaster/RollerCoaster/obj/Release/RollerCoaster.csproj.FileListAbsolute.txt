@@ -1,0 +1,5 @@
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\bin\Release\RollerCoaster.exe.config
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\bin\Release\RollerCoaster.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\bin\Release\RollerCoaster.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\obj\Release\RollerCoaster.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\obj\Release\RollerCoaster.pdb

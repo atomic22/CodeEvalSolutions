@@ -1,0 +1,4 @@
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\bin\UnitTest\RollerCoaster.exe.config
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\bin\UnitTest\RollerCoaster.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\obj\UnitTest\RollerCoaster.csprojResolveAssemblyReference.cache
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\RollerCoaster\obj\UnitTest\RollerCoaster.exe

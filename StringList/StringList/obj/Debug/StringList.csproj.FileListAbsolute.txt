@@ -1,0 +1,6 @@
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\StringList\StringList\bin\Debug\StringList.exe.config
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\StringList\StringList\bin\Debug\StringList.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\StringList\StringList\bin\Debug\StringList.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\StringList\StringList\obj\Debug\StringList.csprojResolveAssemblyReference.cache
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\StringList\StringList\obj\Debug\StringList.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\StringList\StringList\obj\Debug\StringList.pdb

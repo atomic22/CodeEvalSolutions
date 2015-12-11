@@ -1,0 +1,7 @@
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\PackingTests\bin\Debug\PackingTests.dll
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\PackingTests\bin\Debug\PackingTests.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\PackingTests\bin\Debug\Packing.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\PackingTests\bin\Debug\Packing.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\PackingTests\obj\Debug\PackingTests.csprojResolveAssemblyReference.cache
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\PackingTests\obj\Debug\PackingTests.dll
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\PackingTests\obj\Debug\PackingTests.pdb

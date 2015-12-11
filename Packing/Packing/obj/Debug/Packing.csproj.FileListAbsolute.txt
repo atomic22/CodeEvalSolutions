@@ -1,0 +1,11 @@
+c:\users\ctq9685\documents\visual studio 2012\Projects\Packing\Packing\bin\Debug\Packing.exe.config
+c:\users\ctq9685\documents\visual studio 2012\Projects\Packing\Packing\bin\Debug\Packing.exe
+c:\users\ctq9685\documents\visual studio 2012\Projects\Packing\Packing\bin\Debug\Packing.pdb
+c:\users\ctq9685\documents\visual studio 2012\Projects\Packing\Packing\obj\Debug\Packing.exe
+c:\users\ctq9685\documents\visual studio 2012\Projects\Packing\Packing\obj\Debug\Packing.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\Packing\bin\Debug\Packing.exe.config
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\Packing\obj\Debug\Packing.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\Packing\obj\Debug\Packing.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\Packing\bin\Debug\Packing.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\Packing\bin\Debug\Packing.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Packing\Packing\obj\Debug\Packing.csprojResolveAssemblyReference.cache

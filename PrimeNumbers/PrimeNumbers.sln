@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{31B52FD5-1777-4325-9035-03ABBECD4211}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7EB09B06-49BF-4B69-AF4B-7367411D086C}"
+	ProjectSection(SolutionItems) = preProject
+		PrimeNumbers\bin\Debug\Test.txt = PrimeNumbers\bin\Debug\Test.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B52FD5-1777-4325-9035-03ABBECD4211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B52FD5-1777-4325-9035-03ABBECD4211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B52FD5-1777-4325-9035-03ABBECD4211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B52FD5-1777-4325-9035-03ABBECD4211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

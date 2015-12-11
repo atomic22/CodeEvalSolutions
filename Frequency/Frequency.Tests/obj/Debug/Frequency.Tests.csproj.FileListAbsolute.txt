@@ -1,0 +1,5 @@
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Frequency\Frequency.Tests\bin\Debug\Frequency.Tests.dll
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Frequency\Frequency.Tests\bin\Debug\Frequency.Tests.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Frequency\Frequency.Tests\obj\Debug\Frequency.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Frequency\Frequency.Tests\obj\Debug\Frequency.Tests.dll
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\Frequency\Frequency.Tests\obj\Debug\Frequency.Tests.pdb

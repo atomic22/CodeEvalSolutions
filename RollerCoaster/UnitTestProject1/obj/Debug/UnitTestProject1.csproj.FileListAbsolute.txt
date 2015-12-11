@@ -1,0 +1,7 @@
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\UnitTestProject1\bin\Debug\RollerCoaster.exe
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\UnitTestProject1\bin\Debug\RollerCoaster.pdb
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\ctq9685\Documents\Visual Studio 2012\Projects\CodeEvalSolutions\RollerCoaster\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
